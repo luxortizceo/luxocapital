@@ -1,0 +1,13 @@
+{
+  "name": "Luxo Capital — Consultoría Financiera",
+  "short_name": "Luxo Capital",
+  "description": "Orientación personalizada sobre AFORE, pensiones, Modalidad 40 y retiro por desempleo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "lang": "es-MX",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
