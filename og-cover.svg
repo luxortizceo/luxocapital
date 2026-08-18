@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#101114"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C8A45D"/>
+      <stop offset="100%" stop-color="#E5C77A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#C8A45D" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#C8A45D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <circle cx="990" cy="180" r="150" fill="none" stroke="url(#gold)" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="990" cy="180" r="190" fill="none" stroke="url(#gold)" stroke-width="1" opacity="0.3"/>
+  <text x="90" y="270" font-family="Georgia, serif" font-size="72" fill="#F5F3EE" letter-spacing="-1">Luxo Capital</text>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-size="30" fill="url(#gold)">Consultoría financiera personalizada</text>
+  <text x="90" y="400" font-family="Arial, sans-serif" font-size="24" fill="#777C85" xml:space="preserve">AFORE · Pensiones · Modalidad 40 · Retiro por desempleo</text>
+  <rect x="90" y="460" width="1" height="1" fill="none"/>
+  <line x1="90" y1="450" x2="1110" y2="450" stroke="#777C85" stroke-opacity="0.25"/>
+</svg>
